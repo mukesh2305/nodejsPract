@@ -1,0 +1,19 @@
+{
+  "name": "nodeJsCourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "11-fs-async.js",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
